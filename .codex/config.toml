@@ -1,0 +1,4 @@
+[mcp_servers.laravel-boost]
+command = "wsl.exe"
+args = ["/home/guanacodev/.config/herd-lite/bin/php", "/home/guanacodev/projects/di-builder-api/artisan", "boost:mcp"]
+cwd = "/home/guanacodev/projects/di-builder-api"
